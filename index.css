@@ -1,0 +1,15 @@
+h1 {
+    color: green;
+}
+
+#secondQ, #thirdQ {
+    display: none;
+}
+
+#brachys {
+    display: none;
+}
+
+#good-ending, #bad-ending {
+    display: none;
+}
